@@ -3,7 +3,7 @@
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-caio-5ab53933b)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitinkaio?igsh=Nmt6dzExMWF3MzBj)
 
-![vitinkaio GitHub stats](https://github-readme-stats.vercel.app/api?username=japask8&show_icons=true&theme=tokyonight)
+![vitinkaio GitHub stats](https://github-readme-stats.vercel.app/api?username=vitinkaio&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia
 
